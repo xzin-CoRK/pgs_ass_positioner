@@ -1,6 +1,6 @@
 ### CHANGE VALUES HERE
-ass_file_path = 'C:\\Remuxes\\NoTimeToDie\\ass\\english.ass'
-xml_file_path = 'C:\\Remuxes\\NoTimeToDie\\ITA\\en_sdh\\en_sdh.xml'
+ass_file_path = 'C:\\Remuxes\\YourRemux\\english.ass'
+xml_file_path = 'C:\\Remuxes\\YourRemux\\dbsup2sub_output\\en_sdh.xml'
 
 x_offset = 0  # Offset all subtitles by the specified amount.  Positive values move the text right, negative values move it left.
 y_offset = 0  # Offset all subtitles by the specified amount.  Positive values move the text down, negative values move it up.

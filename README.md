@@ -31,3 +31,6 @@ The script will be finished very quickly, and will output a new ASS file in the 
 ## Step 5 - Verify and tweak
 
 Open your ASS file in Subtitle Edit and load your video into the video preview.  Verify that the positioning looks good.  The script has an `x_offset` and `y_offset` value that can be used to shift all subtitle positions by a set amount -- depending on the font you've selected, this might help dial in the perfect placement.
+
+> [!IMPORTANT] 
+> It should be noted that, while the above method is fairly accurate, it's not 100%.  You should still watch through the entirety of your video to verify the subtitle placement.  Subtitle Edit will show the X,Y coordinates for each subtitle, making it easy to adjust individual subtitles as needed.
